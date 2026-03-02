@@ -1,17 +1,8 @@
-# proyecto_de_desarrollo
+# Focus up
 
-A new Flutter project.
+Un proyecto de desarrollo de software realizado por: Luis Mendoza, Santiago Cuesta, Dayana Narvaez, Daniela Arieta.
 
-## Getting Started
+## ¿Qué es Focus Up?
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Focus up es una aplicación que invita a las personas a ser mas organizadas en su dia a dia.
+Focus up es un organizador de agneda innovador, que busca reemplzara a los rudimentarios y aburridos organizadores de agenda de hoy en dia.
